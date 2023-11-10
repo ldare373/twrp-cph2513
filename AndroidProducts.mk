@@ -1,0 +1,2 @@
+COMMON_LUNCH_OPTIONS:= \
+	twrp_cph2513-eng
