@@ -13,7 +13,7 @@ Next, create `.repo/local_manifests/cph2513.xml` and add the following:
     <remote name="lda" 
         fetch="https://github.com/ldare373"
         pushurl="git@github.com:ldare373"/>
-    <project path="device/oneplus/cph2513" 
+    <project path="device/oplus/cph2513" 
         name="twrp-cph2513"
         remote="lda"
         revision="main"/>
